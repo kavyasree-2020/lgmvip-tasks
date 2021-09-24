@@ -7,3 +7,5 @@ Repository for uploading taks for LGMVIP September 2021
 Task 1 - Iris Flower Classification
 
 Task 2 - Image to Pencil Sketch
+
+Tak 3 - EDA on Terrorism Data
