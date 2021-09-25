@@ -9,3 +9,5 @@ Task 1 - Iris Flower Classification
 Task 2 - Image to Pencil Sketch
 
 Tak 3  -  EDA on Terrorism Data
+
+Task 4 - Prediction Using Decision Tree Algorithm
