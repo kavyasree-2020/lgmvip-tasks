@@ -11,3 +11,7 @@ Task 2 - Image to Pencil Sketch
 Tak 3  -  EDA on Terrorism Data
 
 Task 4 - Prediction Using Decision Tree Algorithm
+
+Task 5 - Music Recommendation System
+
+Task 6 - Stock Market Prediction and Forecasting
