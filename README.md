@@ -2,7 +2,7 @@
 
 Repository for uploading taks for LGMVIP September 2021
 
-# Beginner Level Tasks
+# Beginner and Intermediate Level Tasks
 
 Task 1 - Iris Flower Classification
 
